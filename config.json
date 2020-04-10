@@ -1,6 +1,6 @@
 ﻿{
 	"id": "com.bzzbox.box2",
-	"version": "0.1",
+	"version": "0.2",
 	"name": "box2",
 	"description": "appli de la BOX n°2",
 	"author": "farfadet46",
@@ -29,7 +29,7 @@
 		{ "id": "cordova-plugin-wkwebview-engine", "version": null }
 	],
 	"android": {
-		"min": 23,
+		"min": 21,
 		"target": 28,
 		"plugins": []
 	},
